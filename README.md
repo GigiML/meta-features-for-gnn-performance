@@ -33,8 +33,7 @@ Instead of explaining only an individual prediction, this work aims to explain t
 
 - `data/` for datasets and derived files;
 - `src/` for feature extraction, subgraph mining, and training;
-- `experiments/` for evaluation scripts and configurations;
-- `results/` for performance outputs, trees, figures, and tables.
+
 
 ## Citation
 
